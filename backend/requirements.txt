@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+websockets
+faster-whisper
+torch
+transformers
+numpy
+scipy
+python-multipart
+sentencepiece
+webrtcvad
